@@ -18,9 +18,9 @@
 
 Backend Developer focused on **Laravel**, **RESTful API design**, and **database-driven systems** — building backends that are secure, scalable, and ready for production.
 
-I hold a strong CS foundation in **C++ · OOP · Data Structures · Algorithms**, and I previously worked as a **Web Penetration Tester**, which means I understand how systems get broken — and I build mine to resist it.
+I hold a strong CS foundation in **C++ · OOP · Data Structures · Algorithms**, and I spent significant time studying & practicing **Web Penetration Testing** — my entry point into the field, which means I understand how systems get broken — and I build mine to resist it.
 
-🎓 **Faculty of Computers & Informatics** — Zagazig University &nbsp;|&nbsp; 📊 **GPA: 3.771**
+🎓 **Faculty of Computers & Informatics** — Zagazig University &nbsp;|&nbsp; 📊 **GPA: 3.5** &nbsp;|&nbsp; 🗓 **3rd Year**
 
 ---
 
@@ -57,7 +57,7 @@ I hold a strong CS foundation in **C++ · OOP · Data Structures · Algorithms**
 
 ## 🔐 Security Background
 
-> Previously worked in **Web Penetration Testing** — giving me a real attacker's perspective when designing backend systems.
+> Studied & practiced **Web Penetration Testing** as my starting point in tech — giving me a real attacker's perspective when designing backend systems.
 
 | Tool | Experience |
 |:-----|:-----------|
@@ -75,7 +75,7 @@ Sharpening my CS fundamentals through competitive programming in **C++**:
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-CodeWithAtwaa0-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/CodeWithAtwaa0/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-hagag11-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/hagag11/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-hagag0446-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/hagag0446)
 
 </div>
